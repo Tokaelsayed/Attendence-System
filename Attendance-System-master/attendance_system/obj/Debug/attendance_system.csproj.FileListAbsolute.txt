@@ -1,0 +1,275 @@
+E:\collage\mr.hany\attendance_system\attendance_system\bin\Debug\attendance_system.exe.config
+E:\collage\mr.hany\attendance_system\attendance_system\bin\Debug\attendance_system.exe
+E:\collage\mr.hany\attendance_system\attendance_system\bin\Debug\attendance_system.pdb
+E:\collage\mr.hany\attendance_system\attendance_system\obj\Debug\attendance_system.csprojAssemblyReference.cache
+E:\collage\mr.hany\attendance_system\attendance_system\obj\Debug\attendance_system.Form1.resources
+E:\collage\mr.hany\attendance_system\attendance_system\obj\Debug\attendance_system.Properties.Resources.resources
+E:\collage\mr.hany\attendance_system\attendance_system\obj\Debug\attendance_system.csproj.GenerateResource.cache
+E:\collage\mr.hany\attendance_system\attendance_system\obj\Debug\attendance_system.csproj.CoreCompileInputs.cache
+E:\collage\mr.hany\attendance_system\attendance_system\obj\Debug\attendance_system.exe
+E:\collage\mr.hany\attendance_system\attendance_system\obj\Debug\attendance_system.pdb
+E:\collage\mr.hany\attendance_system\attendance_system\obj\Debug\attendance_system.Home.resources
+E:\collage\mr.hany\attendance_system\attendance_system\obj\Debug\attendance_system.Review.resources
+E:\collage\mr.hany\attendance_system\attendance_system\obj\Debug\attendance_system.Add.resources
+E:\collage\mr.hany\attendance_system\attendance_system\obj\Debug\attendance_system.Attendance.resources
+E:\collage\mr.hany\attendance_system\attendance_system\obj\Debug\attendance_system.Search.resources
+C:\Users\nader\OneDrive\Desktop\attendance_system\attendance_system\bin\Debug\attendance_system.exe.config
+C:\Users\nader\OneDrive\Desktop\attendance_system\attendance_system\bin\Debug\attendance_system.exe
+C:\Users\nader\OneDrive\Desktop\attendance_system\attendance_system\bin\Debug\attendance_system.pdb
+C:\Users\nader\OneDrive\Desktop\attendance_system\attendance_system\obj\Debug\attendance_system.csprojResolveAssemblyReference.cache
+C:\Users\nader\OneDrive\Desktop\attendance_system\attendance_system\obj\Debug\attendance_system.Attendance.resources
+C:\Users\nader\OneDrive\Desktop\attendance_system\attendance_system\obj\Debug\attendance_system.Form1.resources
+C:\Users\nader\OneDrive\Desktop\attendance_system\attendance_system\obj\Debug\attendance_system.Home.resources
+C:\Users\nader\OneDrive\Desktop\attendance_system\attendance_system\obj\Debug\attendance_system.Properties.Resources.resources
+C:\Users\nader\OneDrive\Desktop\attendance_system\attendance_system\obj\Debug\attendance_system.Review.resources
+C:\Users\nader\OneDrive\Desktop\attendance_system\attendance_system\obj\Debug\attendance_system.Search.resources
+C:\Users\nader\OneDrive\Desktop\attendance_system\attendance_system\obj\Debug\attendance_system.csproj.GenerateResource.Cache
+C:\Users\nader\OneDrive\Desktop\attendance_system\attendance_system\obj\Debug\attendance_system.exe
+C:\Users\nader\OneDrive\Desktop\attendance_system\attendance_system\obj\Debug\attendance_system.pdb
+C:\Users\nader\OneDrive\Desktop\attendance_system\attendance_system\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\nader\OneDrive\Desktop\attendance_system\attendance_system\bin\Debug\zxing.dll
+C:\Users\nader\OneDrive\Desktop\attendance_system\attendance_system\bin\Debug\AForge.dll
+C:\Users\nader\OneDrive\Desktop\attendance_system\attendance_system\bin\Debug\AForge.Video.xml
+C:\Users\nader\OneDrive\Desktop\attendance_system\attendance_system\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\nader\OneDrive\Desktop\attendance_system\attendance_system\bin\Debug\AForge.xml
+C:\Users\nader\OneDrive\Desktop\attendance_system\attendance_system\bin\Debug\IronBarCode.dll
+C:\Users\nader\OneDrive\Desktop\attendance_system\attendance_system\bin\Debug\IronBarCode.xml
+D:\attendance_system\attendance_system\bin\Debug\attendance_system.exe.config
+D:\attendance_system\attendance_system\bin\Debug\attendance_system.exe
+D:\attendance_system\attendance_system\bin\Debug\attendance_system.pdb
+D:\attendance_system\attendance_system\bin\Debug\AForge.Video.DirectShow.dll
+D:\attendance_system\attendance_system\bin\Debug\AForge.Video.dll
+D:\attendance_system\attendance_system\bin\Debug\Gma.QrCodeNet.Encoding.dll
+D:\attendance_system\attendance_system\bin\Debug\IronBarCode.dll
+D:\attendance_system\attendance_system\bin\Debug\AForge.dll
+D:\attendance_system\attendance_system\bin\Debug\AForge.Video.xml
+D:\attendance_system\attendance_system\bin\Debug\AForge.Video.DirectShow.xml
+D:\attendance_system\attendance_system\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+D:\attendance_system\attendance_system\bin\Debug\Gma.QrCodeNet.Encoding.xml
+D:\attendance_system\attendance_system\bin\Debug\IronBarCode.xml
+D:\attendance_system\attendance_system\bin\Debug\AForge.xml
+D:\attendance_system\attendance_system\obj\Debug\attendance_system.csprojResolveAssemblyReference.cache
+D:\attendance_system\attendance_system\obj\Debug\attendance_system.Add.resources
+D:\attendance_system\attendance_system\obj\Debug\attendance_system.Attendance.resources
+D:\attendance_system\attendance_system\obj\Debug\attendance_system.Form1.resources
+D:\attendance_system\attendance_system\obj\Debug\attendance_system.Home.resources
+D:\attendance_system\attendance_system\obj\Debug\attendance_system.Properties.Resources.resources
+D:\attendance_system\attendance_system\obj\Debug\attendance_system.Review.resources
+D:\attendance_system\attendance_system\obj\Debug\attendance_system.Search.resources
+D:\attendance_system\attendance_system\obj\Debug\attendance_system.csproj.GenerateResource.Cache
+D:\attendance_system\attendance_system\obj\Debug\attendance_system.exe
+D:\attendance_system\attendance_system\obj\Debug\attendance_system.pdb
+D:\attendance_system\attendance_system\bin\Debug\MessagingToolkit.QRCode.dll
+D:\attendance_system\attendance_system\bin\Debug\zxing.dll
+D:\attendance_system\attendance_system\bin\Debug\zxing.presentation.dll
+D:\attendance_system\attendance_system\bin\Debug\zxing.pdb
+D:\attendance_system\attendance_system\bin\Debug\zxing.xml
+D:\attendance_system\attendance_system\bin\Debug\zxing.presentation.pdb
+D:\attendance_system\attendance_system\bin\Debug\zxing.presentation.xml
+D:\attendance_system\attendance_system\bin\Debug\QRCoder.dll
+C:\Users\Hp\Desktop\qr system\attendance_system\attendance_system\bin\Debug\attendance_system.exe.config
+C:\Users\Hp\Desktop\qr system\attendance_system\attendance_system\bin\Debug\attendance_system.exe
+C:\Users\Hp\Desktop\qr system\attendance_system\attendance_system\bin\Debug\attendance_system.pdb
+C:\Users\Hp\Desktop\qr system\attendance_system\attendance_system\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\Hp\Desktop\qr system\attendance_system\attendance_system\bin\Debug\IronBarCode.dll
+C:\Users\Hp\Desktop\qr system\attendance_system\attendance_system\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Hp\Desktop\qr system\attendance_system\attendance_system\bin\Debug\QRCoder.dll
+C:\Users\Hp\Desktop\qr system\attendance_system\attendance_system\bin\Debug\zxing.dll
+C:\Users\Hp\Desktop\qr system\attendance_system\attendance_system\bin\Debug\zxing.presentation.dll
+C:\Users\Hp\Desktop\qr system\attendance_system\attendance_system\bin\Debug\AForge.dll
+C:\Users\Hp\Desktop\qr system\attendance_system\attendance_system\bin\Debug\AForge.Video.xml
+C:\Users\Hp\Desktop\qr system\attendance_system\attendance_system\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Hp\Desktop\qr system\attendance_system\attendance_system\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\Hp\Desktop\qr system\attendance_system\attendance_system\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\Hp\Desktop\qr system\attendance_system\attendance_system\bin\Debug\IronBarCode.xml
+C:\Users\Hp\Desktop\qr system\attendance_system\attendance_system\bin\Debug\zxing.pdb
+C:\Users\Hp\Desktop\qr system\attendance_system\attendance_system\bin\Debug\zxing.xml
+C:\Users\Hp\Desktop\qr system\attendance_system\attendance_system\bin\Debug\zxing.presentation.pdb
+C:\Users\Hp\Desktop\qr system\attendance_system\attendance_system\bin\Debug\zxing.presentation.xml
+C:\Users\Hp\Desktop\qr system\attendance_system\attendance_system\bin\Debug\AForge.xml
+C:\Users\Hp\Desktop\qr system\attendance_system\attendance_system\obj\Debug\attendance_system.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\qr system\attendance_system\attendance_system\obj\Debug\attendance_system.Add.resources
+C:\Users\Hp\Desktop\qr system\attendance_system\attendance_system\obj\Debug\attendance_system.Attendance.resources
+C:\Users\Hp\Desktop\qr system\attendance_system\attendance_system\obj\Debug\attendance_system.Form1.resources
+C:\Users\Hp\Desktop\qr system\attendance_system\attendance_system\obj\Debug\attendance_system.Home.resources
+C:\Users\Hp\Desktop\qr system\attendance_system\attendance_system\obj\Debug\attendance_system.Properties.Resources.resources
+C:\Users\Hp\Desktop\qr system\attendance_system\attendance_system\obj\Debug\attendance_system.Review.resources
+C:\Users\Hp\Desktop\qr system\attendance_system\attendance_system\obj\Debug\attendance_system.Search.resources
+C:\Users\Hp\Desktop\qr system\attendance_system\attendance_system\obj\Debug\attendance_system.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\qr system\attendance_system\attendance_system\obj\Debug\attendance_system.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\qr system\attendance_system\attendance_system\obj\Debug\attendance_system.csproj.CopyComplete
+C:\Users\Hp\Desktop\qr system\attendance_system\attendance_system\obj\Debug\attendance_system.exe
+C:\Users\Hp\Desktop\qr system\attendance_system\attendance_system\obj\Debug\attendance_system.pdb
+C:\Users\win 10\Desktop\attendance_system\attendance_system\bin\Debug\attendance_system.exe.config
+C:\Users\win 10\Desktop\attendance_system\attendance_system\bin\Debug\attendance_system.exe
+C:\Users\win 10\Desktop\attendance_system\attendance_system\bin\Debug\attendance_system.pdb
+C:\Users\win 10\Desktop\attendance_system\attendance_system\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\win 10\Desktop\attendance_system\attendance_system\bin\Debug\IronBarCode.dll
+C:\Users\win 10\Desktop\attendance_system\attendance_system\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\win 10\Desktop\attendance_system\attendance_system\bin\Debug\QRCoder.dll
+C:\Users\win 10\Desktop\attendance_system\attendance_system\bin\Debug\zxing.dll
+C:\Users\win 10\Desktop\attendance_system\attendance_system\bin\Debug\zxing.presentation.dll
+C:\Users\win 10\Desktop\attendance_system\attendance_system\bin\Debug\AForge.dll
+C:\Users\win 10\Desktop\attendance_system\attendance_system\bin\Debug\AForge.Video.xml
+C:\Users\win 10\Desktop\attendance_system\attendance_system\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\win 10\Desktop\attendance_system\attendance_system\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\win 10\Desktop\attendance_system\attendance_system\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\win 10\Desktop\attendance_system\attendance_system\bin\Debug\IronBarCode.xml
+C:\Users\win 10\Desktop\attendance_system\attendance_system\bin\Debug\zxing.pdb
+C:\Users\win 10\Desktop\attendance_system\attendance_system\bin\Debug\zxing.xml
+C:\Users\win 10\Desktop\attendance_system\attendance_system\bin\Debug\zxing.presentation.pdb
+C:\Users\win 10\Desktop\attendance_system\attendance_system\bin\Debug\zxing.presentation.xml
+C:\Users\win 10\Desktop\attendance_system\attendance_system\bin\Debug\AForge.xml
+C:\Users\win 10\Desktop\attendance_system\attendance_system\obj\Debug\attendance_system.csprojAssemblyReference.cache
+C:\Users\win 10\Desktop\attendance_system\attendance_system\obj\Debug\attendance_system.Attendance.resources
+C:\Users\win 10\Desktop\attendance_system\attendance_system\obj\Debug\attendance_system.Form1.resources
+C:\Users\win 10\Desktop\attendance_system\attendance_system\obj\Debug\attendance_system.Home.resources
+C:\Users\win 10\Desktop\attendance_system\attendance_system\obj\Debug\attendance_system.Properties.Resources.resources
+C:\Users\win 10\Desktop\attendance_system\attendance_system\obj\Debug\attendance_system.Review.resources
+C:\Users\win 10\Desktop\attendance_system\attendance_system\obj\Debug\attendance_system.Search.resources
+C:\Users\win 10\Desktop\attendance_system\attendance_system\obj\Debug\attendance_system.csproj.GenerateResource.cache
+C:\Users\win 10\Desktop\attendance_system\attendance_system\obj\Debug\attendance_system.csproj.CoreCompileInputs.cache
+C:\Users\win 10\Desktop\attendance_system\attendance_system\obj\Debug\attendance_system.csproj.CopyComplete
+C:\Users\win 10\Desktop\attendance_system\attendance_system\obj\Debug\attendance_system.exe
+C:\Users\win 10\Desktop\attendance_system\attendance_system\obj\Debug\attendance_system.pdb
+C:\Users\win 10\Desktop\attendance_system\attendance_system\obj\Debug\attendance_system.AddQuiz.resources
+C:\Users\win 10\Desktop\attendance_system\attendance_system\obj\Debug\attendance_system.AddStudent.resources
+D:\tokaa22\attendance_system\attendance_system\bin\Debug\attendance_system.exe.config
+D:\tokaa22\attendance_system\attendance_system\bin\Debug\attendance_system.exe
+D:\tokaa22\attendance_system\attendance_system\bin\Debug\attendance_system.pdb
+D:\tokaa22\attendance_system\attendance_system\bin\Debug\Gma.QrCodeNet.Encoding.dll
+D:\tokaa22\attendance_system\attendance_system\bin\Debug\IronBarCode.dll
+D:\tokaa22\attendance_system\attendance_system\bin\Debug\MessagingToolkit.QRCode.dll
+D:\tokaa22\attendance_system\attendance_system\bin\Debug\QRCoder.dll
+D:\tokaa22\attendance_system\attendance_system\bin\Debug\zxing.dll
+D:\tokaa22\attendance_system\attendance_system\bin\Debug\zxing.presentation.dll
+D:\tokaa22\attendance_system\attendance_system\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+D:\tokaa22\attendance_system\attendance_system\bin\Debug\Gma.QrCodeNet.Encoding.xml
+D:\tokaa22\attendance_system\attendance_system\bin\Debug\IronBarCode.xml
+D:\tokaa22\attendance_system\attendance_system\bin\Debug\zxing.pdb
+D:\tokaa22\attendance_system\attendance_system\bin\Debug\zxing.xml
+D:\tokaa22\attendance_system\attendance_system\bin\Debug\zxing.presentation.pdb
+D:\tokaa22\attendance_system\attendance_system\bin\Debug\zxing.presentation.xml
+D:\tokaa22\attendance_system\attendance_system\obj\Debug\attendance_system.AddStudent.resources
+D:\tokaa22\attendance_system\attendance_system\obj\Debug\attendance_system.AddQuiz.resources
+D:\tokaa22\attendance_system\attendance_system\obj\Debug\attendance_system.Attendance.resources
+D:\tokaa22\attendance_system\attendance_system\obj\Debug\attendance_system.Form1.resources
+D:\tokaa22\attendance_system\attendance_system\obj\Debug\attendance_system.Home.resources
+D:\tokaa22\attendance_system\attendance_system\obj\Debug\attendance_system.Properties.Resources.resources
+D:\tokaa22\attendance_system\attendance_system\obj\Debug\attendance_system.Review.resources
+D:\tokaa22\attendance_system\attendance_system\obj\Debug\attendance_system.Search.resources
+D:\tokaa22\attendance_system\attendance_system\obj\Debug\attendance_system.csproj.GenerateResource.Cache
+D:\tokaa22\attendance_system\attendance_system\obj\Debug\attendance_system.exe
+D:\tokaa22\attendance_system\attendance_system\obj\Debug\attendance_system.pdb
+D:\tokaa22\attendance_system\attendance_system\bin\Debug\ExcelLibrary.dll
+D:\tokaa22\attendance_system\attendance_system\obj\Debug\attendance_system.csprojResolveAssemblyReference.cache
+D:\tokaa22\attendance_system\attendance_system\bin\Debug\AForge.dll
+D:\tokaa22\attendance_system\attendance_system\bin\Debug\AForge.Video.DirectShow.dll
+D:\tokaa22\attendance_system\attendance_system\bin\Debug\AForge.Video.dll
+D:\tokaa22\attendance_system\attendance_system\bin\Debug\OpenCvSharp.Extensions.dll
+D:\tokaa22\attendance_system\attendance_system\bin\Debug\OpenCvSharp.dll
+D:\tokaa22\attendance_system\attendance_system\bin\Debug\AForge.xml
+D:\tokaa22\attendance_system\attendance_system\bin\Debug\AForge.Video.xml
+D:\tokaa22\attendance_system\attendance_system\bin\Debug\AForge.Video.DirectShow.xml
+D:\tokaa22\attendance_system\attendance_system\bin\Debug\OpenCvSharp.dll.config
+C:\Users\nader\OneDrive\Desktop\attendance_system\attendance_system\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\nader\OneDrive\Desktop\attendance_system\attendance_system\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\nader\OneDrive\Desktop\attendance_system\attendance_system\bin\Debug\QRCoder.dll
+C:\Users\nader\OneDrive\Desktop\attendance_system\attendance_system\bin\Debug\zxing.presentation.dll
+C:\Users\nader\OneDrive\Desktop\attendance_system\attendance_system\bin\Debug\OpenCvSharp.dll
+C:\Users\nader\OneDrive\Desktop\attendance_system\attendance_system\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\nader\OneDrive\Desktop\attendance_system\attendance_system\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\nader\OneDrive\Desktop\attendance_system\attendance_system\bin\Debug\zxing.pdb
+C:\Users\nader\OneDrive\Desktop\attendance_system\attendance_system\bin\Debug\zxing.xml
+C:\Users\nader\OneDrive\Desktop\attendance_system\attendance_system\bin\Debug\zxing.presentation.pdb
+C:\Users\nader\OneDrive\Desktop\attendance_system\attendance_system\bin\Debug\zxing.presentation.xml
+C:\Users\nader\OneDrive\Desktop\attendance_system\attendance_system\bin\Debug\OpenCvSharp.dll.config
+C:\Users\nader\OneDrive\Desktop\attendance_system\attendance_system\obj\Debug\attendance_system.AddStudent.resources
+C:\Users\nader\OneDrive\Desktop\attendance_system\attendance_system\obj\Debug\attendance_system.AddQuiz.resources
+C:\Users\nader\OneDrive\Desktop\attendance_system\attendance_system\obj\Debug\attendance_system.Classes_Quizes.resources
+C:\Users\Hp\Desktop\اهو يا تقى يكش نخلص\attendance_system\attendance_system\obj\Debug\attendance_system.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\اهو يا تقى يكش نخلص\attendance_system\attendance_system\obj\Debug\attendance_system.AddStudent.resources
+C:\Users\Hp\Desktop\اهو يا تقى يكش نخلص\attendance_system\attendance_system\obj\Debug\attendance_system.AddQuiz.resources
+C:\Users\Hp\Desktop\اهو يا تقى يكش نخلص\attendance_system\attendance_system\obj\Debug\attendance_system.Attendance.resources
+C:\Users\Hp\Desktop\اهو يا تقى يكش نخلص\attendance_system\attendance_system\obj\Debug\attendance_system.Classes_Quizes.resources
+C:\Users\Hp\Desktop\اهو يا تقى يكش نخلص\attendance_system\attendance_system\obj\Debug\attendance_system.Form1.resources
+C:\Users\Hp\Desktop\اهو يا تقى يكش نخلص\attendance_system\attendance_system\obj\Debug\attendance_system.Home.resources
+C:\Users\Hp\Desktop\اهو يا تقى يكش نخلص\attendance_system\attendance_system\obj\Debug\attendance_system.Properties.Resources.resources
+C:\Users\Hp\Desktop\اهو يا تقى يكش نخلص\attendance_system\attendance_system\obj\Debug\attendance_system.Review.resources
+C:\Users\Hp\Desktop\اهو يا تقى يكش نخلص\attendance_system\attendance_system\obj\Debug\attendance_system.Search.resources
+C:\Users\Hp\Desktop\اهو يا تقى يكش نخلص\attendance_system\attendance_system\obj\Debug\attendance_system.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\اهو يا تقى يكش نخلص\attendance_system\attendance_system\obj\Debug\attendance_system.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\اهو يا تقى يكش نخلص\attendance_system\attendance_system\obj\Debug\attendance_system.exe
+C:\Users\Hp\Desktop\اهو يا تقى يكش نخلص\attendance_system\attendance_system\obj\Debug\attendance_system.pdb
+C:\Users\Hp\Desktop\اهو يا تقى يكش نخلص\attendance_system\attendance_system\bin\Debug\attendance_system.exe.config
+C:\Users\Hp\Desktop\اهو يا تقى يكش نخلص\attendance_system\attendance_system\bin\Debug\attendance_system.exe
+C:\Users\Hp\Desktop\اهو يا تقى يكش نخلص\attendance_system\attendance_system\bin\Debug\attendance_system.pdb
+C:\Users\Hp\Desktop\اهو يا تقى يكش نخلص\attendance_system\attendance_system\bin\Debug\AForge.dll
+C:\Users\Hp\Desktop\اهو يا تقى يكش نخلص\attendance_system\attendance_system\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Hp\Desktop\اهو يا تقى يكش نخلص\attendance_system\attendance_system\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\Hp\Desktop\اهو يا تقى يكش نخلص\attendance_system\attendance_system\bin\Debug\IronBarCode.dll
+C:\Users\Hp\Desktop\اهو يا تقى يكش نخلص\attendance_system\attendance_system\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Hp\Desktop\اهو يا تقى يكش نخلص\attendance_system\attendance_system\bin\Debug\QRCoder.dll
+C:\Users\Hp\Desktop\اهو يا تقى يكش نخلص\attendance_system\attendance_system\bin\Debug\zxing.dll
+C:\Users\Hp\Desktop\اهو يا تقى يكش نخلص\attendance_system\attendance_system\bin\Debug\zxing.presentation.dll
+C:\Users\Hp\Desktop\اهو يا تقى يكش نخلص\attendance_system\attendance_system\bin\Debug\OpenCvSharp.dll
+C:\Users\Hp\Desktop\اهو يا تقى يكش نخلص\attendance_system\attendance_system\bin\Debug\AForge.xml
+C:\Users\Hp\Desktop\اهو يا تقى يكش نخلص\attendance_system\attendance_system\bin\Debug\AForge.Video.xml
+C:\Users\Hp\Desktop\اهو يا تقى يكش نخلص\attendance_system\attendance_system\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Hp\Desktop\اهو يا تقى يكش نخلص\attendance_system\attendance_system\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\Hp\Desktop\اهو يا تقى يكش نخلص\attendance_system\attendance_system\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\Hp\Desktop\اهو يا تقى يكش نخلص\attendance_system\attendance_system\bin\Debug\IronBarCode.xml
+C:\Users\Hp\Desktop\اهو يا تقى يكش نخلص\attendance_system\attendance_system\bin\Debug\zxing.pdb
+C:\Users\Hp\Desktop\اهو يا تقى يكش نخلص\attendance_system\attendance_system\bin\Debug\zxing.xml
+C:\Users\Hp\Desktop\اهو يا تقى يكش نخلص\attendance_system\attendance_system\bin\Debug\zxing.presentation.pdb
+C:\Users\Hp\Desktop\اهو يا تقى يكش نخلص\attendance_system\attendance_system\bin\Debug\zxing.presentation.xml
+C:\Users\Hp\Desktop\اهو يا تقى يكش نخلص\attendance_system\attendance_system\bin\Debug\OpenCvSharp.dll.config
+C:\Users\Hp\Desktop\اهو يا تقى يكش نخلص\attendance_system\attendance_system\obj\Debug\attendance_system.csproj.CopyComplete
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\bin\Debug\attendance_system.exe.config
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\bin\Debug\attendance_system.exe
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\bin\Debug\attendance_system.pdb
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\bin\Debug\AForge.dll
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\bin\Debug\IronBarCode.dll
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\bin\Debug\QRCoder.dll
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\bin\Debug\zxing.dll
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\bin\Debug\zxing.presentation.dll
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\bin\Debug\AForge.xml
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\bin\Debug\IronBarCode.xml
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\bin\Debug\zxing.pdb
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\bin\Debug\zxing.xml
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\bin\Debug\zxing.presentation.pdb
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\bin\Debug\zxing.presentation.xml
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\obj\Debug\attendance_system.AddStudent.resources
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\obj\Debug\attendance_system.AddQuiz.resources
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\obj\Debug\attendance_system.Attendance.resources
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\obj\Debug\attendance_system.Classes_Quizes.resources
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\obj\Debug\attendance_system.Form1.resources
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\obj\Debug\attendance_system.Home.resources
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\obj\Debug\attendance_system.Properties.Resources.resources
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\obj\Debug\attendance_system.Review.resources
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\obj\Debug\attendance_system.Search.resources
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\obj\Debug\attendance_system.csproj.GenerateResource.Cache
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\obj\Debug\attendance_system.exe
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\obj\Debug\attendance_system.pdb
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\obj\Debug\attendance_system.QrGenerator.resources
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.dll
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\bin\Debug\Microsoft.SqlServer.Management.SqlParser.dll
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+C:\Users\nader\OneDrive\Desktop\naaaaaader\attendance_system\attendance_system\obj\Debug\attendance_system.csprojResolveAssemblyReference.cache

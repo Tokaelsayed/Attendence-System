@@ -1,0 +1,48 @@
+E:\naaaaaader\Second Year\attendance_system\bin\Debug\AForge.dll
+E:\naaaaaader\Second Year\attendance_system\bin\Debug\AForge.Video.DirectShow.dll
+E:\naaaaaader\Second Year\attendance_system\bin\Debug\Gma.QrCodeNet.Encoding.dll
+E:\naaaaaader\Second Year\attendance_system\bin\Debug\IronBarCode.dll
+E:\naaaaaader\Second Year\attendance_system\bin\Debug\MessagingToolkit.QRCode.dll
+E:\naaaaaader\Second Year\attendance_system\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+E:\naaaaaader\Second Year\attendance_system\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+E:\naaaaaader\Second Year\attendance_system\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.dll
+E:\naaaaaader\Second Year\attendance_system\bin\Debug\Microsoft.SqlServer.Smo.dll
+E:\naaaaaader\Second Year\attendance_system\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+E:\naaaaaader\Second Year\attendance_system\bin\Debug\QRCoder.dll
+E:\naaaaaader\Second Year\attendance_system\bin\Debug\zxing.dll
+E:\naaaaaader\Second Year\attendance_system\bin\Debug\zxing.presentation.dll
+E:\naaaaaader\Second Year\attendance_system\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+E:\naaaaaader\Second Year\attendance_system\bin\Debug\Microsoft.SqlServer.Management.SqlParser.dll
+E:\naaaaaader\Second Year\attendance_system\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+E:\naaaaaader\Second Year\attendance_system\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+E:\naaaaaader\Second Year\attendance_system\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\naaaaaader\Second Year\attendance_system\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+E:\naaaaaader\Second Year\attendance_system\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\naaaaaader\Second Year\attendance_system\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+E:\naaaaaader\Second Year\attendance_system\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+E:\naaaaaader\Second Year\attendance_system\bin\Debug\AForge.xml
+E:\naaaaaader\Second Year\attendance_system\bin\Debug\AForge.Video.DirectShow.xml
+E:\naaaaaader\Second Year\attendance_system\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+E:\naaaaaader\Second Year\attendance_system\bin\Debug\Gma.QrCodeNet.Encoding.xml
+E:\naaaaaader\Second Year\attendance_system\bin\Debug\IronBarCode.xml
+E:\naaaaaader\Second Year\attendance_system\bin\Debug\zxing.pdb
+E:\naaaaaader\Second Year\attendance_system\bin\Debug\zxing.xml
+E:\naaaaaader\Second Year\attendance_system\bin\Debug\zxing.presentation.pdb
+E:\naaaaaader\Second Year\attendance_system\bin\Debug\zxing.presentation.xml
+E:\naaaaaader\Second Year\attendance_system\obj\Debug\Second Year.csprojResolveAssemblyReference.cache
+E:\naaaaaader\Second Year\attendance_system\obj\Debug\Second Year.csproj.GenerateResource.Cache
+E:\naaaaaader\Second Year\attendance_system\bin\Debug\Second Year.exe.config
+E:\naaaaaader\Second Year\attendance_system\bin\Debug\Second Year.exe
+E:\naaaaaader\Second Year\attendance_system\bin\Debug\Second Year.pdb
+E:\naaaaaader\Second Year\attendance_system\obj\Debug\Second_Year.AddStudent.resources
+E:\naaaaaader\Second Year\attendance_system\obj\Debug\Second_Year.AddQuiz.resources
+E:\naaaaaader\Second Year\attendance_system\obj\Debug\Second_Year.Attendance.resources
+E:\naaaaaader\Second Year\attendance_system\obj\Debug\Second_Year.Classes_Quizes.resources
+E:\naaaaaader\Second Year\attendance_system\obj\Debug\Second_Year.Form1.resources
+E:\naaaaaader\Second Year\attendance_system\obj\Debug\Second_Year.Home.resources
+E:\naaaaaader\Second Year\attendance_system\obj\Debug\Second_Year.Properties.Resources.resources
+E:\naaaaaader\Second Year\attendance_system\obj\Debug\Second_Year.QrGenerator.resources
+E:\naaaaaader\Second Year\attendance_system\obj\Debug\Second_Year.Review.resources
+E:\naaaaaader\Second Year\attendance_system\obj\Debug\Second_Year.Search.resources
+E:\naaaaaader\Second Year\attendance_system\obj\Debug\Second Year.exe
+E:\naaaaaader\Second Year\attendance_system\obj\Debug\Second Year.pdb
